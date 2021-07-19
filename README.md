@@ -8,13 +8,13 @@
 
 ## TECHNICAL SKILLS:
 
-CRM TOOLS: Salesforce.com, Eclipse, Eclipse IDE Plug-in,
+CRM TOOLS: Salesforce.com, Eclipse, Eclipse IDE Plug-in
 
 SALESFORCE TECHNOLOGIES: Test Classes, SOQL, SOSL, Visual Force, Lightning pages (Pages, Component & Controllers), ETL, S-Controls, Custom Objects, Web services, Validation Rules, Work Flows, Dashboards, Reports, Sandbox development and Testing
 
 SALESFORCE API TOOLS: Eclipse, Apex Explorer, Offline Edition, App Exchange, Data Loader
 
-LANGUAGES:Java, SQL, Ajax
+LANGUAGES:Java, SQL, PHP, Ajax
 
 WEB TECHNOLOGIES: Web Services, XML, HTML, XHTML, CSS , Java Script, PHP,  Bootstrap, JQuery
 
