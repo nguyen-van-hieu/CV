@@ -14,7 +14,7 @@ SALESFORCE TECHNOLOGIES: Test Classes, SOQL, SOSL, Visual Force, Lightning pages
 
 SALESFORCE API TOOLS: Eclipse, Apex Explorer, Offline Edition, App Exchange, Data Loader
 
-LANGUAGES:Java, PL/SQL, Ajax
+LANGUAGES:Java, SQL, Ajax
 
 WEB TECHNOLOGIES: Web Services, XML, HTML, XHTML, CSS , Java Script, PHP,  Bootstrap, JQuery
 
