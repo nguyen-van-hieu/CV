@@ -51,7 +51,7 @@ Skilled in Node.js, Express, ES6, Async Generator, Event-loop;
 
 ### **Full Stack Developer, Software Engineer**
 #### Metta Depth `October 2019 - Present`
-- [x] I led 2 programmers and coded +2 corporate project using Vlocity + LWC
+- [x] I've been involved in developing +2 corporate projects using Vlocity + LWC
 - [x] Builded a listing management website using Vlocity , LWC.
 - [x] Builded +10 corporate websites using Wordpress CMS, Next.js
 - [x] Created an e-commerce website and an associate cross-platform app using Wordpress CMS, React Native
