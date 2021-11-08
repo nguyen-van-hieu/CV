@@ -2,7 +2,7 @@
 
 * Senior Front End Developer - Salesforce Developer in `Metta Depth`
 * Working experience in Vietnam.
-* Email: [nvhieu99999@gmail.com](mailto:nvhieu99999@gmail.com)
+* Email: [hnguyen@mettadepth.com](mailto:hnguyen@mettadepth.com)
 * Phone: [+84964879812](tel:+84964879812)
 
 
