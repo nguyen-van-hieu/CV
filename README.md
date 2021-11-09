@@ -3,7 +3,6 @@
 * Senior Front End Developer - Salesforce Developer in `Metta Depth LLC`
 * Working experience in Vietnam.
 * Email: [hnguyen@mettadepth.com](mailto:hnguyen@mettadepth.com)
-* Phone: [+84964879812](tel:+84964879812)
 
 
 ## TECHNICAL SKILLS:
@@ -49,8 +48,10 @@ Skilled in Node.js, Express, ES6, Async Generator, Event-loop;
 
 ## Experience
 
-### **Full Stack Developer, Software Engineer**
-#### Metta Depth `October 2019 - Present`
+### **Full Stack Front End Developer, Software Engineer**
+#### Metta Depth LLC `October 2021 - Present`
+- [x] Working for Camvas
+#### Metta Depth LLC `October 2019 - Present`
 - [x] I've been involved in developing +2 corporate projects using Vlocity + LWC
 - [x] Builded a listing management website using Vlocity , LWC.
 - [x] Builded +10 corporate websites using Wordpress CMS, Next.js
