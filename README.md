@@ -49,7 +49,7 @@ Skilled in Node.js, Express, ES6, Async Generator, Event-loop;
 ## Experience
 
 ### **Full Stack Front End Developer, Software Engineer**
-#### Metta Depth LLC `October 2021 - Present`
+#### Metta Depth LLC Present
 - [x] Working for Camvas
 #### Metta Depth LLC `October 2019 - Present`
 - [x] I've been involved in developing +2 corporate projects using Vlocity + LWC
