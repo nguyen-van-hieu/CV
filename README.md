@@ -1,6 +1,6 @@
 ## Nguyen Van Hieu
 
-* Senior Front End Developer - Salesforce Developer in `Metta Depth LLC`
+* Senior Front End Developer in `Metta Depth LLC`
 * Working experience in Vietnam.
 * Email: [hnguyen@mettadepth.com](mailto:hnguyen@mettadepth.com)
 
