@@ -55,13 +55,8 @@ As a 3 years agile geek in web engineering, with experience in PHP full-stack an
 
 #### Metta Depth LLC `October 2019 - Present`
 - [x] Build websites using WordPress.
-- [x] Prepare website proposals to present to clients.
 - [x] Provide technical support to clients.
-- [x] Write coding using HTML and CSS.
 - [x] Design new features for existing websites.
-- [x] Act as the company expert in creating PPC and Google AdWords campaigns to be integrated with new website builds.
-- [x] Customize themes to meet clients’ requirements.
-- [x] Manage a user guide to help clients understand site features and management of website to increase visitor satisfaction.
 - [x] Builded +10 corporate websites using Wordpress CMS, Next.js
 - [x] Created an e-commerce website and an associate cross-platform app using Wordpress CMS, React Native
 - [x] Created an web about the environment, we design responsible digital strategies, solutions and ecosystems: Ethical, Local, and Ecological, to initiate a more positive impact on society and the environment. using Wordpress CMS
