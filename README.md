@@ -44,14 +44,14 @@ As a 3 years agile geek in web engineering, with experience in PHP full-stack an
 #### Metta Depth LLC Present
 - [x] WordPress Developer
 
-- Build websites using WordPress.
-- Prepare website proposals to present to clients.
-- Provide technical support to clients.
-- Write coding using HTML and CSS.
-- Design new features for existing websites.
-- Act as the company expert in creating PPC and Google AdWords campaigns to be integrated with new website builds.
-- Customize themes to meet clients’ requirements.
-- Manage a user guide to help clients understand site features and management of website to increase visitor satisfaction.
+- * Build websites using WordPress.
+- * Prepare website proposals to present to clients.
+- * Provide technical support to clients.
+- * Write coding using HTML and CSS.
+- * Design new features for existing websites.
+- * Act as the company expert in creating PPC and Google AdWords campaigns to be integrated with new website builds.
+- * Customize themes to meet clients’ requirements.
+- * Manage a user guide to help clients understand site features and management of website to increase visitor satisfaction.
 
 #### Metta Depth LLC `October 2019 - Present`
 - [x] Build websites using WordPress.
