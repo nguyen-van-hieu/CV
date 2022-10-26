@@ -7,53 +7,61 @@
 
 ## TECHNICAL SKILLS:
 
-CRM TOOLS: Salesforce.com, Eclipse, Eclipse IDE Plug-in
+* #### Front End:
+	* JavaScript, ES6, HTML5, CSS3
+	* ReactJs, NextJs
+	* Wordpress
+  	* Bootstrap, Material Design, Tailwind, Styled Component, SASS, LESS, Responsive
+	
+* #### Back End:
+	* MySQL
+	* PHP
 
-SALESFORCE TECHNOLOGIES: Test Classes, SOQL, SOSL, Visual Force, Lightning pages (Pages, Component & Controllers), ETL, S-Controls, Custom Objects, Web services, Validation Rules, Work Flows, Dashboards, Reports, Sandbox development and Testing
-
-SALESFORCE API TOOLS: Eclipse, Apex Explorer, Offline Edition, App Exchange, Data Loader
-
-LANGUAGES:Java, SQL, PHP, Ajax
-
-WEB TECHNOLOGIES: Web Services, XML, HTML, XHTML, CSS , Java Script, PHP,  Bootstrap, JQuery
-
-WEB SERVICES: JSON, REST
+* #### Dev Tools:
+	* Design Tools
+	* UI Testing
+	* Git, Sourcetree
 
 
 ## Responsibilities:
-
-- Used Eclipse in developing different J2EE components
-
-- Used Servlets, JSPs and Struts framework.
-
-- Actively coordinated meetings and followed up with the clients for gathering project requirements and specifications.
-    
-- Developed the programs using HTML, JSP, XML, and Servlets.
-
-- Extensively used the JSP in the view side of MVC.
-
-- Used JSP for taking the user input and sending it to the Java business classes.
-
-- Used Photoshop to design buttons and menus for the website.
-
-
-Environment: Struts, MVC, Java, J2EE, JavaScript, HTML, JSP, Ajax, Servlets, XSL, XML, JNDI, Web sphere, Eclipse, Apache Tomcat, SQL Server, PHP, JDBC.
+- Theme and plugin installation
+- Plugin development
+- Page builders: Elementor, Divi, Beaver
+- Database management: SQL, MySQL
+- Digital marketing and SEO
+- Web design: UX, UI, site architecture
+- Monitored website performance and handled troubleshooting and WordPress issues
+- Managed company WordPress website back-end including plugins, tools, and database
+- Launched seasonal WordPress themes and plugins updates that lead to a 35% boost in sales and conversions
 
 ## Summary
 
-As a 2 years agile geek in web engineering, with experience in PHP full-stack and the JavaScript/TypeScript stack development.
-Expertise in PHP, React, Redux. Highly knowledgeable on scalable and usable UI components and Front-end architecture.
-
-Skilled in Node.js, Express, ES6, Async Generator, Event-loop;
+As a 3 years agile geek in web engineering, with experience in PHP full-stack and JavaScript stack development; Highly knowledgeable on scalable and usable UI/UX components and Front-end architecture.Proficient and creative WordPress developer with a strong history in website management and development. Experienced in SEO and PPC campaign creation. Expert in all aspects of WordPress website creation, including design, plug-ins, and implementation. Solid understanding of React rendering theory. A good communicator who is not afraid to ask questions to understand project requirements fully. The skilled researcher is able to identify opportunities in a given arena.
 
 ## Experience
 
 ### **Full Stack Front End Developer, Software Engineer**
 #### Metta Depth LLC Present
-- [x] Working for [Camvas](https://www.getcamvas.com)
+- [x] WordPress Developer
+
+- Build websites using WordPress.
+- Prepare website proposals to present to clients.
+- Provide technical support to clients.
+- Write coding using HTML and CSS.
+- Design new features for existing websites.
+- Act as the company expert in creating PPC and Google AdWords campaigns to be integrated with new website builds.
+- Customize themes to meet clients’ requirements.
+- Manage a user guide to help clients understand site features and management of website to increase visitor satisfaction.
+
 #### Metta Depth LLC `October 2019 - Present`
-- [x] I've been involved in developing +2 corporate projects using Vlocity + LWC
-- [x] Builded a listing management website using Vlocity , LWC.
+- [x] Build websites using WordPress.
+- [x] Prepare website proposals to present to clients.
+- [x] Provide technical support to clients.
+- [x] Write coding using HTML and CSS.
+- [x] Design new features for existing websites.
+- [x] Act as the company expert in creating PPC and Google AdWords campaigns to be integrated with new website builds.
+- [x] Customize themes to meet clients’ requirements.
+- [x] Manage a user guide to help clients understand site features and management of website to increase visitor satisfaction.
 - [x] Builded +10 corporate websites using Wordpress CMS, Next.js
 - [x] Created an e-commerce website and an associate cross-platform app using Wordpress CMS, React Native
 - [x] Created an web about the environment, we design responsible digital strategies, solutions and ecosystems: Ethical, Local, and Ecological, to initiate a more positive impact on society and the environment. using Wordpress CMS
