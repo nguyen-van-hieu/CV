@@ -1,8 +1,8 @@
 ## Nguyen Van Hieu
 
-* Senior Front End Developer in `Metta Depth LLC`
+* Senior Front End Developer in `developerSix LLC`
 * Working experience in Vietnam.
-* Email: [hnguyen@mettadepth.com](mailto:hnguyen@mettadepth.com)
+* Email: [nvhieu99999@gmail.com](mailto:nvhieu99999@gmail.com)
 
 
 ## TECHNICAL SKILLS:
