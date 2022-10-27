@@ -41,7 +41,7 @@ As a 3 years agile geek in web engineering, with experience in PHP full-stack an
 ## Experience
 
 ### **Full Stack Front End Developer, Software Engineer**
-#### Metta Depth LLC Present
+#### developerSix LLC Present
 - [x] WordPress Developer
 
 - * Build websites using WordPress.
@@ -53,7 +53,7 @@ As a 3 years agile geek in web engineering, with experience in PHP full-stack an
 - * Customize themes to meet clients’ requirements.
 - * Manage a user guide to help clients understand site features and management of website to increase visitor satisfaction.
 
-#### Metta Depth LLC `October 2019 - Present`
+#### developerSix LLC `October 2019 - Present`
 - [x] Build websites using WordPress.
 - [x] Provide technical support to clients.
 - [x] Design new features for existing websites.
