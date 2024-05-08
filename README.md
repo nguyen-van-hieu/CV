@@ -36,7 +36,7 @@
 
 ## Summary
 
-As a 3 years agile geek in web engineering, with experience in PHP full-stack and JavaScript stack development; Highly knowledgeable on scalable and usable UI/UX components and Front-end architecture.Proficient and creative WordPress developer with a strong history in website management and development. Experienced in SEO and PPC campaign creation. Expert in all aspects of WordPress website creation, including design, plug-ins, and implementation. Solid understanding of React rendering theory. A good communicator who is not afraid to ask questions to understand project requirements fully. The skilled researcher is able to identify opportunities in a given arena.
+As a 4 years agile geek in web engineering, with experience in PHP full-stack and JavaScript stack development; Highly knowledgeable on scalable and usable UI/UX components and Front-end architecture.Proficient and creative WordPress developer with a strong history in website management and development. Experienced in SEO and PPC campaign creation. Expert in all aspects of WordPress website creation, including design, plug-ins, and implementation. Solid understanding of React rendering theory. A good communicator who is not afraid to ask questions to understand project requirements fully. The skilled researcher is able to identify opportunities in a given arena.
 
 ## Experience
 
